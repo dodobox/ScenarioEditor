@@ -29,11 +29,11 @@ ID:EN
 28:Import
 29:Export
 30:Check
-31:CN
-32:TC
-33:EN
-34:JP
-35:KR
+31:中文
+32:繁体中文
+33:English
+34:日本语
+35:한국어
 36:Help
 37:About
 38:New
@@ -46,7 +46,7 @@ ID:EN
 45:Delete
 46:Check
 47:Help
-48:Basic Playwriting Settings
+48:Basic Settings
 49:                       GUID:
 50:                      Name:
 51:           Duplicate name: 
@@ -61,7 +61,7 @@ ID:EN
 60:      End year:
 61:      End month:
 62:                  cover photo:
-63:General Wu
+63:Officer Setting
 64:Add 
 65:Insert
 66:Delete
@@ -69,7 +69,7 @@ ID:EN
 68:MoveDown
 69:Import
 70:Export
-71:Urban Settings
+71:City Settings
 72:Import
 73:Export
 74:Army establishment
@@ -87,7 +87,7 @@ ID:EN
 86:Delete
 87:Import
 88:Export
-89:The Setting of General-in-Chief Relations
+89:Officers Relation Settings
 90:Insert
 91:Delete
 92:MoveUp
@@ -101,7 +101,7 @@ ID:EN
 100:MoveDown
 101:Import
 102:Export
-103:Camp Relations Setting
+103:Camp Relation Settings
 104:Insert
 105:Delete
 106:MoveUp
@@ -114,9 +114,9 @@ ID:EN
 113:Arms
 114:army
 115:NPC
-116:generals  Relations 
+116:Officers  Relation
 117:camp
-118:Camp relations
+118:Camp relation
 200:No.
 201:Name
 202:Surname

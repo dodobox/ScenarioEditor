@@ -6,7 +6,7 @@ ID:EN
 5:7
 6:7
 7:7
-8:operation
+8:Operation
 9:Three Kingdoms:the Last Warlord
 10:File
 11:Edit
@@ -29,7 +29,7 @@ ID:EN
 28:Import
 29:Export
 30:Check
-31:中文
+31:简体中文
 32:繁体中文
 33:English
 34:日本语
@@ -50,17 +50,17 @@ ID:EN
 49:                       GUID:
 50:                      Name:
 51:           Duplicate name: 
-52:                   author:
+52:                   Author:
 53:  External version number:
 54:  Internal version number:
 55:Compatible Version Number:
-56:                 describe:
-57:time setting:
+56:                 Describe:
+57:Time setting:
 58:Beginning year:
 59:Beginning month:
 60:      End year:
 61:      End month:
-62:                  cover photo:
+62:                  Cover photo:
 63:Officer Setting
 64:Add 
 65:Insert
@@ -112,10 +112,10 @@ ID:EN
 111:Generals
 112:City
 113:Arms
-114:army
+114:Army
 115:NPC
 116:Officers  Relation
-117:camp
+117:Camp
 118:Camp relation
 200:No.
 201:Name
@@ -129,7 +129,7 @@ ID:EN
 209:Bio Ⅲ
 210:Born
 211:Dead
-212:Adult
+212:Career
 213:Portrait
 214:Duty
 215:Ambition
@@ -1031,6 +1031,20 @@ ID:EN
 5646:Duke
 5647:King
 5648:Emperor
+5649:Royal 
+5650:Aristocratic 
+5651:Cold 
+5652:Yellow towel
+5653:Alien Nation
+5654:Farmer
+5655:Landlords
+5656:Rich merchant
+5657:Butcher
+5658:Hunter
+5659:Scholar
+5660:Strategic adviser
+5661:Knight errant
+5662:Rebels
 6000:Light Infantry
 6001:Heavy Infantry
 6002:Armored Raiders
@@ -2251,4 +2265,767 @@ ID:EN
 12026:Import
 12027:File export completed!
 12028:Export
+12100:Check
+12101:Result
+12102:Close
+12103:Export
+12104:Start Testing
+12105:General  preferences
+12106:General Evaluation
+12107:General Achievements
+12200:Equipment
+12201:Famous horse
+12202:Books
+12203:Musical Instruments
+12204:Clothes 
+12205:Ornaments
+12206:Treasure
+12207:Beauty
+12208:Drink 
+12209:None
+12210:Normol
+12211:Middle
+12212:Indulge
+12300:Celebrities
+12301:Doctor
+12302:Powerful Minister
+12303:Favourite Minister
+12304:Capable Official
+12305:Honest Officials
+12306:Cruel Officials
+12400:Literator
+12401:Politician
+12402:Militarist
+12403:Historian
+12404:Strategist
+12405:Confucianists
+12406:Thinker
+12407:Mathematician
+12408:Diplomat
+12409:Bibliographer
+12410:Philosopher
+12411:Metaphysician
+12412:Military Strategist
+12413:Economist
+12414:Inventor
+12415:Geographer
+12416:Astronomer
+12417:Hydraulist
+12418:Architect
+12419:Ritualist
+12420:Educator
+12421:Critic
+12422:Poet
+12423:Calligrapher
+12424:Musician
+12425:Painter
+12426:Medical expert
+12427:Martial artist
+12450:Distribution of  General Items
+12451:Distribution of  Items
+12452:Main weapon
+12453:Deputy  weapon
+12454:Mounts
+12455:Armor
+12456:Book
+12457:Treasure
+12500:Guo Xia Horse
+12501:Dian Chi Horse
+12502:Wu Huan Horse
+12503:Xiong Nu Horse
+12504:He Xi Horse
+12505:Yellow Horse
+12506:Wu Huan White Horse
+12507:He Qu Horse
+12508:Elephant
+12509:Da Wan Horse
+12510:Qing Hai Horse
+12511:Xiao Yao Horse
+12512:Thousand Miles Horse
+12513:Four Wheeler
+12514:White Elephant
+12515:Red Yak
+12516:White Pigeon
+12517:Snowflake
+12518:White Snow
+12519:Ferghana
+12520:Wu Shun
+12521:Thunder
+12522:Black Cloud
+12523:Hex Bristle
+12524:Dark Stallion
+12525:Grey Shadow
+12526:Five Flowers
+12527:Twitchfire
+12528:Purple Dawan
+12529:White Crane
+12530:Jade Dragon
+12531:Jade Lion
+12532:Jade Runner
+12533:Sail
+12534:Traveller
+12535:Shadow Runner
+12536:Gray Lightning
+12537:Hex Mark
+12538:Southern Red Hare
+12539:Red Hare
+12540:Bronze Sword
+12541:Steel Sword
+12542:Fine Steel Sword
+12543:Sword of Eternity
+12544:Zhang Wu
+12545:Yang Xiu Sword
+12546:Han Xin Sword
+12547:Si Zhao Sword
+12548:Sword of Emperor Wu
+12549:Zheng Shan
+12550:Flash Lightning
+12551:Meng De
+12552:Flying Star
+12553:Rainbow
+12554:Hua Ting
+12555:Fogbow
+12556:Purple Lighting
+12557:Exorcise Evil
+12558:Meteor
+12559:Firmament
+12560:Hundred Miles
+12561:Triones
+12562:King Yue
+12563:Lady Xu Dagger
+12564:King Qing
+12565:Sword of Light
+12566:Sword of Heaven
+12567:Gan Jiang
+12568:Moye
+12569:Yu Chang
+12570:Sheng Ye
+12571:Ju Que
+12572:Zhan Lu
+12573:Cun Jun
+12574:Gong Bu
+12575:Qing A
+12576:Sword of Dragon
+12577:Sword of Sovereignty
+12578:Twin Swords
+12579:Pine Mark
+12580:Swords of Fate
+12581:Curved Hook
+12582:Steel Blade
+12583:Blade of Eternally
+12584:Seventy-Two
+12585:Shen Miao
+12586:Bai Pi
+12587:An Guo
+12588:San Gong
+12589:Xin Ting
+12590:Dang Kou
+12591:Su Zhi
+12592:Ling Bao
+12593:Han Zhang
+12594:Dragon Scale
+12595:Lord Guan Blade
+12596:Gu Ding Blade
+12597:Seven Stars Blade
+12598:Blade of Warlord
+12599:Twin Blades
+12600:Sun Moon
+12601:Long Feng
+12602:Zhan Ma Blade
+12603:Long Blade
+12604:Qu Blade
+12605:Diao Blade
+12606:Mei Jian Blade
+12607:Feng Zui Blade
+12608:Crescent Blade
+12609:You Ping Blade
+12610:Duan Tou Blade
+12611:Si Ma Blade
+12612:Gu Ling Blade
+12613:Broad Blade
+12614:Yellow Dragon
+12615:War Trident
+12616:Jie Tou Blade
+12617:Great Feng Zui Blade
+12618:Green Dragon
+12619:Spear
+12620:Red-Tasselled Spear
+12621:Zhao Mu Spear
+12622:Ya Jiao Spear
+12623:Silver Spear
+12624:Dragon Rider
+12625:Hook Spear
+12626:Five Tiger
+12627:Green Spear
+12628:Steel Spear
+12629:Spear of Warlords
+12630:Tiger Head
+12631:Dragon
+12632:Long Lance
+12633:Ironspine Lance
+12634:Long Spike
+12635:Serpent Lance
+12636:Spike
+12637:Dragon Spike
+12638:Crescent Halberd
+12639:Twin Halberds
+12640:Great Twin Halberds
+12641:Great Axe
+12642:Xuan Hua Axe
+12643:Kai Shan Axe
+12644:Stone Breaker
+12645:Golden Axe
+12646:Iron Flail
+12647:Twin Flails
+12648:Bronze Mace
+12649:Great Mace
+12650:Long Mace
+12651:Thorned Mace
+12652:Shooting Star
+12653:Flying Swords
+12654:Flying Halberds
+12655:Wooden Bow
+12656:Angle Bow
+12657:Eagle Bow
+12658:Cudrania Bow
+12659:Horn Bow
+12660:Paorosa Bow
+12661:Hu Bow
+12662:Bow of Emperor
+12663:Painted Bow
+12664:Iron Bow
+12665:Dragon Bow
+12666:Leather Armor
+12667:Mail Armor
+12668:Steel Armor
+12669:Ring Lock Armor
+12670:Plate Armor
+12671:Steel Armor
+12672:Silver Armor
+12673:Rhinoceros Hide Armor
+12674:Golden Chain Armor
+12675:Chain Armor
+12676:War Manual of Yan Bing
+12677:Naval War Manual
+12678:He Guan Zi
+12679:Fan Zei's War Manual
+12680:Sir Wei's War Manual
+12681:Mo Zi's War Manual
+12682:Wo Qi Jing
+12683:Wang Chang's War Manual
+12684:Wei Liao Zi's War Manual
+12685:Art of War's Comments
+12686:Meng De's War Manual
+12687:Sixteen Strategies
+12688:Wu Zi's War Manual
+12689:Law of Si Ma
+12690:Sun Bing's War Manual
+12691:The 24 War Manuals
+12692:Huang Shi Gong's War Manual
+12693:Book of Tai Gong
+12694:Tai Gong's Tactics
+12695:Tai Gong's War Manual
+12696:Art of War
+12697:Bamboo Sandals
+12698:Meng Kuo Pen
+12699:Inkslab
+12700:Royal Ink
+12701:Hemp Paper
+12702:Cai Hou Paper
+12703:Fine Silk
+12704:Zhuo Bo Paper
+12705:Colored Flower Paper
+12706:Book of Learning
+12707:Origin of Chinese Characters
+12708:Luxuriant Dew of The Spring and Autumn Annals
+12709:Book of Politics
+12710:Shen Zi
+12711:Yi Wen Zi
+12712:Shen Zi
+12713:Neologism
+12714:Xin Xu
+12715:Guan Zi Du Di
+12716:Book of River Canal
+12717:Fan Sheng's Manual
+12718:Legend of Merchant
+12719:Tao Zhu Gong's Business
+12720:Book of Han Commerce
+12721:Book of Architecture
+12722:Book of Music
+12723:Lao Zi
+12724:Zhong Lun
+12725:Xing Shu
+12726:Fa Yan
+12727:Story of Ladies
+12728:Book of Taixuan
+12729:Balance Talk
+12730:Records of the Han Dynasty
+12731:Shen Jian
+12732:Shang Jun's Book
+12733:Annals of Wu and Yue
+12734:Annals of Yan Zi
+12735:Wang Fu's Manual
+12736:Book of Wu and Due
+12737:Shut Yuan
+12738:Book of Farming
+12739:Huan Nan Zi
+12740:Yan Tie Run
+12741:Guan Zi
+12742:Xun Zi
+12743:Strategies of The Warring States
+12744:Book of Former Han
+12745:Han Fei Zi
+12746:The Spring and Autumn Annals
+12747:Lu's Spring and Autumn Annals
+12748:Historical Records
+12749:Rites of Zhou
+12750:Li Ji
+12751:Yi Li
+12752:Er Ya
+12753:The Book of Songs
+12754:Tales of Woe
+12755:Gui Cang
+12756:Lian Shan
+12757:Shi Yao Lun
+12758:Le Yi's Talk
+12759:Confucius's Talk
+12760:Su Shu
+12761:Jie Zi Shu
+12762:Game Theory
+12763:Book of Emperor
+12764:Shi Yao Lun
+12765:Zhi Lun
+12766:Bian Dao Lun
+12767:Qiang Xiang Li
+12768:Qiang Xiang Li Zhu
+12769:Book of Loyalty
+12770:The Nine Chapters on The Mathematical Art
+12771:Zhou Pi Suan Jin
+12772:Hai Dao Saun Jin
+12773:Shu Shu Ji Yi
+12774:Folk Legend
+12775:Dian Lun
+12776:The Comments of The Analects of Confucius
+12777:Book of Documents
+12778:Xiao Jing
+12779:Huang Di's Manual
+12780:Gu Liang Jing
+12781:Gong Yang Zhuan
+12782:The Book of Changes
+12783:The Analects of Confucius
+12784:Zhuang Zi
+12785:Mencius
+12786:Tao Te Ching
+12787:Su Nu Jing
+12788:Xuan Nu Jing
+12789:Ying Yang Da Lun
+12790:Tai Lun Yao Lu
+12791:Nan Jing
+12792:Can Tong Qi
+12793:Book of Health
+12794:Wu Pu Ben Cao
+12795:Book of Acupuncture
+12796:Li Dang Zhi's Medical Manual
+12797:Huang Di Nei Jing Su Wen
+12798:Ben Cao Jing
+12799:Shang Han Za Bing Lun
+12800:Mai Jing
+12801:Jiu Ding Sheng Dan Jing
+12802:Qing Nang Shu
+12803:Jing Bian Yao Lue
+12804:Ben Ji Jing
+12805:Hun Tian Tu Ji
+12806:Zhou Yi Ling Tong Jue
+12807:Book of Stars
+12808:Ling Bao Jing
+12809:Book of Crafts
+12810:Shan Hai Jing
+12811:Bo Wu Zhi
+12812:Huang Di's Manual
+12813:Gui Gu Zi
+12814:Dun Jia Tian Shu
+12815:Book of Peace
+12816:Map of Western Shu
+12817:Map of Nan Man
+12818:Map Rule
+12819:San Fu Jue Lu Xu
+12820:Shi Zhou San Dao Ji
+12821:Ling Hai Shui Tu Zhi
+12822:Silver Hairpin
+12823:Gold Hairpin
+12824:Jade Earring
+12825:Jade Hairpin
+12826:Sachet
+12827:Glaze Hairpin
+12828:Jade Ring
+12829:Platinum Hairpin
+12830:Jade
+12831:Sapphire
+12832:Colored Jade
+12833:Agate
+12834:Calaite
+12835:Lantian Jade
+12836:Jiulong Jade
+12837:Xiuyan Jade
+12838:Amber
+12839:Beeswax
+12840:Ivory
+12841:Lake Pearl
+12842:Zhushan Jade
+12843:Shell
+12844:Dushan Jade
+12845:Topaz
+12846:Rhinoceros Horn
+12847:Tridacna
+12848:Ruby
+12849:Hepu Pearl
+12850:Shangdang Cloth
+12851:Taimo Cloth
+12852:Qi Silk
+12853:Jianglin Silk Shoes
+12854:Jianglin Silk
+12855:Qinghe Silk
+12856:Fangzi Silk
+12857:Caoge Silk
+12858:Xiangyi Silk
+12859:Chengniu Silk
+12860:Silk Cotton
+12861:Sheep Fur
+12862:Hainan Cloth
+12863:Tiger Fur
+12864:Asbestos Cloth
+12865:Silk Cloth
+12866:Fox Fur
+12867:Ten Silks
+12868:Mink Fur
+12869:Flame of The Believer
+12870:Jade Dragon Disc
+12871:Agate Cup
+12872:Crystal Cup
+12873:Guiju Mirror
+12874:Shuanglin Mirror
+12875:Bianfu Mirror
+12876:Bojuwenhuaxiang Mirror
+12877:Four Beasts Mirror
+12878:Bronze Mirror
+12879:Bronze Cup
+12880:Silver Lamp
+12881:Zhuyi Cup
+12882:Water Mirror
+12883:Jingcuoshu Cup
+12884:Dragon Flagon
+12885:Ring Flagon
+12886:Square Flagon
+12887:Porcelain Boshan Brazier
+12888:Seven Stars Lamp
+12889:Square Zun with Four Sheep
+12890:Big Grams Tripod
+12891:Duke Mao Tripod
+12892:Great Yu Tripod
+12893:Taotie Tripod
+12894:Simurong Tripod
+12895:Hujia
+12896:Lute
+12897:Zither
+12898:Se
+12899:Zu
+12900:Keting Flute
+12901:Huwenshipan
+12902:Moon Guitar
+12903:Lyre
+12904:Jiaowei Lyre
+12905:Zhongzouzhong
+12906:Zhenghouyi Bells
+12907:Grey Gallipot
+12908:Dark Gallipot
+12909:Dark Ceramics
+12910:Glaze Tank
+12911:Ceramics Tower
+12912:Lejiwulian Tank
+12913:Qingyouguchang Tank
+12914:Pottery Figurine
+12915:Ceramics Tank
+12916:Wooden Shoes
+12917:Powder Box
+12918:Painting Disc
+12919:Cloud Mark Box
+12920:Shell Bowl
+12921:Horn Cup
+12922:Qier Cup
+12923:Qizi Box
+12924:Abacus
+12925:Imperial Seal
+12926:Sulfur
+12927:Wulin Tea
+12928:Jianggui Tea
+12929:Mengding Tea
+12930:Zhushan Tea
+12931:Xi He Liu
+12932:Jiao Tou
+12933:Yam
+12934:Shu Chilli
+12935:Shu Ginger
+12936:Cassia Twig
+12937:Fructus Evodiae
+12938:Radix Puerariae
+12939:Herbaceous
+12940:Mint
+12941:Polygala Root
+12942:Radix Bupleuri
+12943:Pinellia Ternata
+12944:Cape Jasmine
+12945:Asiatic Wormwood
+12946:Liquorice
+12947:Gamboge
+12948:Angelica
+12949:Orpiment
+12950:Astragalus
+12951:Eucommia
+12952:Gastrodia Elata
+12953:Codonopsis Pilosula
+12954:Radices Rehmanniae
+12955:Tiger Bone
+12956:Bear Gall
+12957:Pilose Antler
+12958:Tiger Penis
+12959:Lelang Ginseng
+12960:Liaodong Ginseng
+12961:Ganoderma
+12962:Anti Cold Soup
+12963:Powder For Anesthesia
+12964:Powder of Five Minerals
+12965:Xingjun Power
+12966:Qinlian Power
+12967:Tusu Wine
+12968:Taiqing Dan
+12969:Longevity Dan
+12970:Jiuzhuan Dan
+12971:Sweet Wine
+12972:Jujube Wine
+12973:Apricot Wine
+12974:Shi Wine
+12975:Saka Wine
+12976:Xi Wine
+12977:Yidi Wine
+12978:Yizhou Wine
+12979:Laoli Wine
+12980:Tian Wine
+12981:Shu Wine
+12982:Dongma Wine
+12983:Zhao Wine
+12984:Jiao Wine
+12985:Yangshao Wine
+12986:Guihua Wine
+12987:Baoling Wine
+12988:Hanhua Wine
+12989:Jujiang Wine
+12990:Danhechou Wine
+12991:Qianri Wine
+12992:Shaoxing Wine
+12993:Shangzhun Wine
+12994:Chun Wine
+12995:Dukang Wine
+12996:Jingjiang Wine
+12997:Ling Wine
+12998:Red Wine
+12999:Piaoqing Wine
+13000:Jiuniang Wine
+13001:Qin
+13002:Allium Rutaceae
+13003:Eight Battle Diagrams
+13004:White Fur
+13005:Swallowtail Spear
+13006:Pike
+13007:Tai Gong's War Book
+13008:Sycee
+13009:Bullion
+13010:Donkey-Hide Gelatin
+13011:Muskiness
+13012:Dendrobe
+13013:G.Sinense
+13014:Twotooth
+13015:Aoshiba
+13016:White Sesame
+13017:Zhuo Nu Wine
+13018:Hakka Wine
+13019:Armored Raiders Seal
+13020:Elite Rangers Seal
+13021:Elite Pikemen Seal
+13022:Wu's Royal Guard Seal
+13023:Heavy Spearmen Seal
+13024:Elite Raiders Seal
+13025:Shu's Royal Guard Seal
+13026:Liang Cavalry Seal
+13027:Flying Bear Cavalry Seal
+13028:White Riders Seal
+13029:Tiger Cavalry Seal
+13030:War Elephants Seal
+13031:Elite Crossbowmen Seal
+13032:Chu-ko-nu Squad Seal
+13033:WuXi Warriors Seal
+13034:Lelang Silk
+13035:Ku Tea
+13036:Fish Cup
+13037:Xiang Silk
+13038:Penghu Pearl
+13039:Hengshui Wine
+13040:Longfeng Wine
+13041:Meihua Jade
+13042:Huai Yam
+13043:Xingfeng Wine
+13044:Zhao Wine
+13045:Jimo Wine
+13046:Red rooted salvia
+13047:Malachite
+13048:Huai Yam
+13049:Qifo Tea
+13050:Changning Ginger
+13051:Su Silk
+13052:Bei Pearl
+13053:Tung Hua Cloth
+13054:Copper Ore
+13055:Iron Ore
+13056:Silver Ore
+13057:Bright Silver Ore
+13058:Gold Ore
+13059:Violet Gold Ore
+13060:Wolf Skin
+13061:Bear Skin
+13062:Tiger Skin
+13063:Deer Tendon
+13064:Bear Tendon
+13065:Tiger Tendon
+13066:Arrow Bamboo
+13067:Fir Wood
+13068:Red Sandalwood
+13069:Fine Copper Ore
+13070:Darksteel Ore
+13071:Cowhide
+13072:Deer Skin
+13073:Ox Tendon
+13074:Mongolian Oak
+13075:Cudrania Tricuspidata
+13076:Jinyang Vinegar
+13077:Fangxian Fungus
+13078:Qixian Garlic
+13079:Incense
+13080:Birth Magic
+13081:Infantry Pages
+13082:Infantry Book
+13083:Cavalry Pages
+13084:Cavalry Book
+13085:Archer Pages
+13086:Archer Book
+13087:Navy Pages
+13088:Navy Book
+13089:Siege Pages
+13090:Siege Book
+13091:Defense Pages
+13092:Defense Book
+13093:Drill Pages
+13094:Drill BookBook
+13095:Recruit Pages
+13096:Recruit Book
+13097:Combat Pages
+13098:Combat Book
+13099:Valor Pages
+13100:Valor Book
+13101:Riding Pages
+13102:Riding Book
+13103:Archery Pages
+13104:Archery Book
+13105:Capture Pages
+13106:Capture Book
+13107:Strategy Pages
+13108:Strategy Book
+13109:Tactics Pages
+13110:Tactics Book
+13111:Calm Pages
+13112:Calm Book
+13113:Pillage Pages
+13114:Pillage Book
+13115:Spy Pages
+13116:Spy Book
+13117:Farming Pages
+13118:Farming Book
+13119:Commerce Pages
+13120:Commerce Book
+13121:Flood Control Pages
+13122:Flood Control Book
+13123:Architecture Pages
+13124:Architecture Book
+13125:Patrol Pages
+13126:Patrol Book
+13127:Math Pages
+13128:Math Book
+13129:Connections Pages
+13130:Connections Book
+13131:Virtue Pages
+13132:Virtue Book
+13133:Debate Pages
+13134:Debate Book
+13135:Negotiate Pages
+13136:Negotiate Book
+13137:Academic Pages
+13138:Academic Book
+13139:Charm Pages
+13140:Charm Book
+13141:Mysterious Pages
+13142:Ancient Book
+13143:Rush Book
+13144:Guard Book
+13145:Charge Book
+13146:Shoot Book
+13147:Volley Book
+13148:Fire Arrows Book
+13149:Ambush Book
+13150:Disorder Book
+13151:Boost Book
+13152:Interlocking Book
+13153:Fire Book
+13154:Forecast Book
+13155:Rockfall Book
+13156:Trap Book
+13157:Blunder Book
+13158:Misinform Book
+13159:Taunt Book
+13160:Break Book
+13161:Intrude Book
+13162:Lost Military Book
+13163:Darksteel Sword
+13164:Violet Gold Sword
+13165:Gold&Jade Breaker
+13166:White Rainbow
+13167:Padauk Bow
+13168:Lightning Bow
+13169:Rattan Bow
+13170:Fierce Bow
+13171:Darksteel Armor
+13172:Rattan Armor
+13173:Knit-Silver Armor
+13174:Knited-Gold Armor
+13175:Black Shadow
+13176:Red Flame
+13177:Winged Steed 
+13178:Flaming Red Hare
+13179:Jiaozi
+13180:Hotpot
+13181:Couplet Scrolls
+13182:Firecrackers String
+13183:Dancing Lion
+13184:Lucky Applique
+13185:Red Packet
+13186:Chinese Knot
+13187:God of Wealth
+13188:Gold Piggy Bank
+13189:Concert Ticket
+13190:New Year Painting
+13191:Lucky Bag
+13192:The Great Learning
+13193:The Doctrine of the Mean
+13200:Number
+13201:Name
+13202:Level
+13203:Treasures
+13204:Having military generals
 

@@ -206,6 +206,7 @@ ID:EN
 286:Break
 287:Intrude
 288:Treasures
+289:Stunt
 300:No.
 301:Use
 302:Full Name
@@ -1862,6 +1863,11 @@ ID:EN
 10023:Blank
 10024:Confirm
 10025:Cancel
+10030:Search
+10031:Search type
+10032:Content
+10033:Input does not match, please re-enter
+10034:Content not detected, please re-enter
 11000:House of Three Dukes
 11001:Confucius Descendants
 11002:Yellow Turban
@@ -3028,4 +3034,14 @@ ID:EN
 13202:Level
 13203:Treasures
 13204:Having military generals
+13205:Search
+13250:Wei Wu whips
+13251:The world's most valiant
+13252:March straightly
+13253:Overawe throughout Xiaoyaojing
+13254:Charge fearlessly
+13255:Overawe throughout Huaxia
+13256:Cut off bridge shoutingly
+13257:The soul of Changshan
+13258:Six star wind and thunder
 
